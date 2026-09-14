@@ -22,13 +22,13 @@ vậy đã hết endpoint bên trong nên sẽ xem source code thử. Khi đọc
 ta thấy có trang admin.tsx khả năng cao có thông tin ngon liên quan đến
 admin
 
-![](./image2.png){width="6.5in" height="3.064583333333333in"}
+![](./image2.png)
 
 Ở đây ta thấy để vào Adminpage cần truy cập vào /admin với
 username==admin , có verify bằng token nhưng nếu username==admin thì qua
 được , nên sẽ thử đăng kí username=admin ( nếu username này chưa tồn tại
 thì thành công ) ,và thành công
-thật![](./image3.png){width="6.5in" height="3.1256944444444446in"}
+thật![](./image3.png)
 
 **Hachimi-revenge**
 
@@ -36,9 +36,8 @@ thật![](./image3.png){width="6.5in" height="3.1256944444444446in"}
 hệt , linh cảm mách bảo sẽ có sự thay đổi ở chỗ code lỗi lúc nãy
 (admin.ts)
 
-![](./image4.png){width="6.5in" height="1.775in"}
+![](./image4.png)
 
 Ta nhận thấy có thể vào /get như ở challenge trước nếu kiểm soát được
 username==admin , vậy ta lại thử tạo tài khoản có username là admin để
-access vào , và vẫn thành công. ![](./image5.png){width="6.5in"
-height="3.790277777777778in"}
+access vào , và vẫn thành công. ![](./image5.png)
