@@ -11,7 +11,7 @@ Hachimi-revenge
 Mở đầu ta nhận được 1 link web đến target server và file hachimi.zip bên
 trong chứa source code. Web server có 2 trường login và register , ta
 tiến hành tạo tài khoảng và login vào bên trong.
-![](./image1.png){width="6.5in" height="2.834722222222222in"}
+![](./image1.png)
 
 Đây là UI của web challenge , thấy không tương tác được gì nhiều , open
 đại 1 image để xem url :
